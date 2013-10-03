@@ -85,8 +85,8 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
 
 #### The Art of Prolog: Advanced Programming Techniques
   Leon Sterling and Ehud Shapiro
-(!)
-
+  * http://cdn.preterhuman.net/texts/computing/programming/Prolog/The%20Art%20of%20Prolog%20%202nd%20Ed%20-%20Leon%20Sterling%20,%20Ehud%20Shapiro.pdf
+  
 #### The Craft of Prolog
   Richard A. O'Keefe
 
