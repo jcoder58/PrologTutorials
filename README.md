@@ -6,6 +6,9 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
 #### Prolog subredit
 * http://www.reddit.com/r/prolog/
 
+#### Introduction to Prolog Videos
+* https://www.youtube.com/watch?v=GHLfeGN5OMk
+
 #### Learn Prolog Now!#####
   Patrick Blackburn, Johan Bos, and Kristina Striegnitz
   * <http://www.learnprolognow.org/>
