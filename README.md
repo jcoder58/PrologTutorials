@@ -14,6 +14,8 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
   * <http://www.learnprolognow.org/>
   * <http://cs.union.edu/~striegnk/learn-prolog-now/html/>
   
+#### Prolog Wiki Book
+* http://en.wikibooks.org/wiki/Prolog
 
 #### prolog :- tutorial.     
   John R. Fisher
