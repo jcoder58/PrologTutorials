@@ -1,9 +1,10 @@
-PrologTutorials
-===============
+Prolog Books and Tutorials
+==========================
 
-Copied from http://ideone.com/mKB5l
+Copied and updated from http://ideone.com/mKB5l (with clicky links)
 
-SOME LOGIC PROGRAMMING RESOURCES (based on http://paste.lisp.org/display/96726 - updated and so on)
+#### Prolog subredit
+* http://www.reddit.com/r/prolog/
 
 #### Learn Prolog Now!#####
   Patrick Blackburn, Johan Bos, and Kristina Striegnitz
@@ -26,10 +27,6 @@ SOME LOGIC PROGRAMMING RESOURCES (based on http://paste.lisp.org/display/96726 -
 #### Prolog for Software Engineering
   Peter B. Reintjes
   * <http://www.cs.auckland.ac.nz/~j-hamer/07.363/prolog-for-se.html>
-
-#### An Introduction to Language Processing with Perl and Prolog
-  Pierre Nugues
-    * <http://www.cs.lth.se/home/Pierre_Nugues/ilppp/index.html>
 
 #### P-99: Ninety-Nine Prolog Problems
   Werner Hett
@@ -57,7 +54,7 @@ SOME LOGIC PROGRAMMING RESOURCES (based on http://paste.lisp.org/display/96726 -
 #### Public-domain Prolog library
   Jocelyn Paine
   * <http://www.j-paine.org/prolog/library.html>
-
+
 #### Programming in Prolog
   W.F. Clocksin and C.S. Mellish
   * <http://www.ebooksdownloadfree.com/Programming-general/William-F-Clocksin-Christopher-S-Mellish-Programming-in-BI22314.html>
@@ -69,7 +66,7 @@ SOME LOGIC PROGRAMMING RESOURCES (based on http://paste.lisp.org/display/96726 -
   Ulf Nilsson and Jan Maluszynski
   * <http://www.ida.liu.se/~ulfni/lpp/index.html>
 
-Computing with Logic: Logic Programming with Prolog
+#### Computing with Logic: Logic Programming with Prolog
 (!)  David Maier and David S. Warren
 
 #### Artificial Intelligence through Prolog
