@@ -121,9 +121,6 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
   Patrick Blackburn and Kristina Striegnitz
   * <http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/>
 
-#### Prolog Programming in Depth
-  Michael A.Covington, Donald Nute, Andre Vellino
-  * <http://www.ebooksdownloadfree.com/IT/Prolog-Programming-in-Depth-BI5667.html>
 
 #### Open source Prolog implementations
 * Warren Abstract Machine
