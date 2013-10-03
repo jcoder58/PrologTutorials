@@ -60,7 +60,6 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
 
 #### Programming in Prolog
   W.F. Clocksin and C.S. Mellish
-  * <http://www.ebooksdownloadfree.com/Programming-general/William-F-Clocksin-Christopher-S-Mellish-Programming-in-BI22314.html>
 
 #### Clause and Effect
 (!)  W.F. Clocksin
@@ -83,15 +82,13 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
 
 #### Prolog Programming for Artificial Intelligence
   Ivan Bratko
-  * <http://www.ebooksdownloadfree.com/Programming-general/PROLOG-Programming-for-Artificial-Intelligence-BI20607.html>
-  
+
 #### The Art of Prolog: Advanced Programming Techniques
   Leon Sterling and Ehud Shapiro
 (!)
 
 #### The Craft of Prolog
   Richard A. O'Keefe
-  * <http://www.ebooksdownloadfree.com/Programming-general/The-Craft-of-Prolog-Logic-Programming-BI8808.html>
 
 #### Logic for Problem Solving
   Robert Kowalski
