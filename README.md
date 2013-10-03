@@ -15,12 +15,6 @@ SOME LOGIC PROGRAMMING RESOURCES (based on http://paste.lisp.org/display/96726 -
   John R. Fisher
   * <http://www.csupomona.edu/~jrfisher/www/prolog_tutorial/contents.html>
 
-#### Prolog Tutorials
-   F. Power
-  * <http://www.cs.nuim.ie/~jpower/Courses/PROLOG/index.html>
-  (Assumes SICStus Prolog, most of the information should be portable to other
-   implementations)
-
 #### Prolog Books & Tutorials
   Amzi!
   * <http://www.amzi.com/articles/prolog_books_tutorials.htm>
