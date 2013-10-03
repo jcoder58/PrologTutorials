@@ -1,5 +1,5 @@
-Prolog Books and Tutorials
-==========================
+Prolog Books, Tutorials and Impelentations
+===========================================
 
 Copied and updated from http://ideone.com/mKB5l (with clicky links)
 
@@ -124,3 +124,16 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
 #### Prolog Programming in Depth
   Michael A.Covington, Donald Nute, Andre Vellino
   * <http://www.ebooksdownloadfree.com/IT/Prolog-Programming-in-Depth-BI5667.html>
+
+#### Open source Prolog implementations
+* Warren Abstract Machine
+  * http://stefan.buettcher.org/cs/wam/ - Java implementation of WAM
+  * https://github.com/Trismegiste/WamBundle PHP (!) implementation of WAM
+* JIT Prolog
+  * Jitting Prolog for Fun and Proﬁt - http://bergel.eu/download/Dyla2010/schneider-prolog-jit-final.pdf
+  * http://morepypy.blogspot.com/2008/06/hi-all-some-news-from-jit-front.html
+* http://ioctl.org/logic/ - Javascript prolog, source code embedded in page
+* Python Interpreter for Prolog 
+  *   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.1886&rep=rep1&type=pdf
+  *   http://www.stups.uni-duesseldorf.de/mediawiki/images/5/5f/Bolz2007-Bachelorarbeit.pdf
+
