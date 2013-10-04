@@ -1,4 +1,4 @@
-Prolog Books, Tutorials and Impelentations
+Prolog Books, Tutorials and Implementations
 ===========================================
 
 Copied and updated from http://ideone.com/mKB5l (with clicky links)
@@ -16,6 +16,14 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
   
 #### Prolog Wiki Book
 * http://en.wikibooks.org/wiki/Prolog
+
+#### Prolog Programming in Depth
+Michael A. Covington, Donald Nute, and André Vellino
+* http://www.covingtoninnovations.com/books.html#ppid
+
+#### Natural Language Processing for Prolog Programmers
+Michael A. Covington
+http://www.covingtoninnovations.com/books.html#nlp
 
 #### prolog :- tutorial.     
   John R. Fisher
@@ -95,7 +103,8 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
 #### Logic for Problem Solving
   Robert Kowalski
   * <http://www.doc.ic.ac.uk/~rak/index.html>
-
+
+
 #### Prolog: The ISO Standard
   J.P.E. Hodgson
   <http://pauillac.inria.fr/~deransar/prolog/index.html>
@@ -128,8 +137,16 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
 * JIT Prolog
   * Jitting Prolog for Fun and Proﬁt - http://bergel.eu/download/Dyla2010/schneider-prolog-jit-final.pdf
   * http://morepypy.blogspot.com/2008/06/hi-all-some-news-from-jit-front.html
-* http://ioctl.org/logic/ - Javascript prolog, source code embedded in page
+* Prolog in Javascript
+  * http://ioctl.org/logic/ - Javascript prolog, source code embedded in page
+  * https://github.com/BijuGC/jsprolog - Easy to embed version of ioctl.org prolog
 * Python Interpreter for Prolog 
   *   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.1886&rep=rep1&type=pdf
   *   http://www.stups.uni-duesseldorf.de/mediawiki/images/5/5f/Bolz2007-Bachelorarbeit.pdf
+* Yield Prolog - a prolog-like technique implmeneted in languages with the yield statement
+  * http://yieldprolog.sourceforge.net/
+
+#### More Prolog links
+* SWI Prolog.  Both general and SWI-specific - http://www.swi-prolog.org/Links.html
+* Amzi Prolog - http://www.amzi.com/articles/
 
