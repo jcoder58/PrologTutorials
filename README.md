@@ -12,7 +12,7 @@ Copied and updated from http://ideone.com/mKB5l (with clicky links)
 #### Introduction to Prolog Videos
 * https://www.youtube.com/watch?v=GHLfeGN5OMk
 
-#### Learn Prolog Now!#####
+#### Learn Prolog Now!
 Patrick Blackburn, Johan Bos, and Kristina Striegnitz
 * <http://www.learnprolognow.org/>
 * <http://cs.union.edu/~striegnk/learn-prolog-now/html/>
